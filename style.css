@@ -69,6 +69,9 @@ h1 {
 	display:block;
 	padding-top: 200px;
 }
+#portofolio {
+	background-color: #ECEFF1;
+}
 .mv-title {
 	font-size: 64px;
 	font color: #FAFAFA;
@@ -99,8 +102,14 @@ div {
 	display:block;
 	width: 70px;
 	height: 3px;
-	margin: 8px auto 0 auto;
+	margin: 8px auto 0 auto; /*なぜ margin-bottom: 8px;ではないのか？*/
 	background-color: #EC715F;
+}
+.heading-text {
+	font-size: 16px;
+	text-align: center;
+	font color: #000000;
+	margin: 30px auto 0 auto;
 }
 
 
