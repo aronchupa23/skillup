@@ -65,11 +65,21 @@ li {
 section {
 	display: block;
 }
+h1 {
+	display:block;
+	padding-top: 200px;
+}
 .mv-title {
 	font-size: 64px;
-	background-color: #FAFAFA;
+	font color: #FAFAFA;
 }
-
+p {
+	display: block;
+	padding-top: 10px;
+}
+.mv-text {
+	font-size: 20px;
+}
 
 
 
