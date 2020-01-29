@@ -80,6 +80,28 @@ p {
 .mv-text {
 	font-size: 20px;
 }
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+div {
+	display: block;
+}
+.heading {
+	padding-top: 90px;
+	text-align: center;
+	font-family: 'Raleway', sans-feris;
+	font-size: 32px;
+	font color: #000000;
+}
+.heading::after {
+	content: '';
+	display:block;
+	width: 70px;
+	height: 3px;
+	margin: 8px auto 0 auto;
+	background-color: #EC715F;
+}
 
 
 
