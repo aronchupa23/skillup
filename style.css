@@ -147,6 +147,25 @@ div {
 	display: block;
 	clear: both;
 }
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+#feature {
+	background-size: cover;
+	background-position: center;
+}
+.heading {
+	padding-top: 90px;
+	text-align: center;
+	font-family: 'Raleway', sans-feris;
+	font-size: 32px;
+}
+.heading-text {
+	padding-top: 30px;
+	text-align: center;
+	font-size: 16px;
+}
 
 
 
