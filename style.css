@@ -192,7 +192,25 @@ div {
 .container {
 	width: 1024px;
 }
-
+.heading {
+	padding-top: 90px;
+	text-align: center;
+	font-size: 32px;
+}
+.heading ::after {
+	content: '';
+	display: block;
+	width: 70px;
+	height: 3px;
+	background-color: #EC715F;
+	font-size: 32px;
+	margin: 8px auto 0 auto;
+}
+.profile-text {
+	padding-top: 30px;
+	font-size: 16px;
+	text-align: center;
+}
 
 
 
