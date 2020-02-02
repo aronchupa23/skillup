@@ -186,9 +186,12 @@ div {
 	text-align: left;
 	font-size: 16px;
 }
-
-
-
+#profile {
+	background-color: #ECEFF1;
+}
+.container {
+	width: 1024px;
+}
 
 
 
