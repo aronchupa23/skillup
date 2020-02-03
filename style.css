@@ -75,6 +75,10 @@ h1 {
 #portfolio {
 	background-color: #ECEFF1;
 }
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
 .mv-title {
 	font-size: 64px;
 	font color: #FAFAFA;
@@ -85,13 +89,6 @@ p {
 }
 .mv-text {
 	font-size: 20px;
-}
-.container {
-	width: 1024px;
-	margin: 0 auto;
-}
-div {
-	display: block;
 }
 .heading {
 	padding-top: 90px;
@@ -113,6 +110,12 @@ div {
 	text-align: center;
 	font color: #000000;
 	margin: 30px auto 0 auto;
+}
+.picture:nth-child(3n) {
+	margin-right: 0;
+}
+.picture:nth-child(3n) {
+	margin-top: 0;
 }
 .bg-1 {
 	background-image: url(img/sketch.jpg);
@@ -141,7 +144,7 @@ div {
 	background-position: center;
 }
 .picture-group {
-	width: 1200px;
+	width: 920px;
 	padding: 30px 0 90px 0; /*picture-groupが真ん中によらない*/
 	margin: 0 auto;
 }
