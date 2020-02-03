@@ -240,6 +240,51 @@ div {
 	font-size: 20px;
 	margin-top: 20px;
 }
+.contant-group {
+	width: 800px;
+	margin: 0 auto;
+	padding: 30px 0 90px 0;
+}
+.left-contact {
+	float: left;
+	width: 50%;
+}
+.left-contact-content {
+	width: 130px;
+	margin: 0 auto;
+}
+.right-contact {
+	float: left;
+	width: 50%;
+}
+.right-contact-content {
+	width: 200px;
+	margin: 0 auto;
+}
+.sub-title2 {
+	margin: 20px 0 5px 0;
+	font-size: 20px;
+	text-align: left;
+}
+.right-contact .fab {
+	font-size: 50px;
+	margin-right: 20px;
+	float: left;
+}
+.link-text {
+	text-decoration: underline;
+	color: #212121;
+}
+.sub-title2 {
+	margin: 20px 0 5px 0;
+	font-size: 20px;
+}
+
+
+
+
+
+
 
 
 
