@@ -296,7 +296,11 @@ footer {
 	text-align: center;
 	padding-top: 17px;
 }
-
+/*レスポンシブ対応*/
+@media screen and (max-width: 768px)
+.container {
+	width: 90%
+}
 
 
 
