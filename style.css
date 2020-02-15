@@ -4,3 +4,35 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+header {
+	width: 100%;
+	height: 70px;
+	background-color: #EC715F;
+}
+.logo {
+	height: 70px;
+	float: left;
+}
+.nav {
+	float: right;
+}
+a {
+	text-decoration: none; /*urlの下線を消す昨日*/
+}
+.nav-list {
+	float: left;
+	width: 120px;
+	line-height: 70px; /*nav-listの高さを調整する*/
+	color: #FAFAFA;
+	padding: 0 30px;
+	list-style: none;
+	font-size: 16px;
+}
+.nav-list a {
+	color: #FAFAFA;
+}
