@@ -149,7 +149,38 @@ a {
     padding-top: 10px;
     text-align: left;
 }
-
+/*profile*/
+#profile {
+	background-color: #ECEFF1;
+}
+.profile-group {
+	padding: 30px 0 90px 0;
+}
+.left-content {
+    float: left;
+    width: 50%;
+}
+.my-face {
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+	border-radius: 50%;
+	background-image: url(img/my-icon.jpg);
+}
+.right-content {
+    float: right;
+    width: 50%;
+}
+.discription-title {
+    font-size: 20px;
+    margin: 20px 0 5px 0;
+}
+.discription-title:first-child {
+	margin-top: 0;
+}
+.discription-text {
+    font-size: 16px;
+}
 
 
 
