@@ -193,9 +193,25 @@ a {
 }
 .right-contact-content {
 	margin: 0 auto;
-	width: 200px;
+	width: 170px;
+}
+.fa {
+	font-size: 50px;
+	margin-right: 20px;
 }
 
+/*footer用*/
+footer {
+	background-color: #EC715F;
+	width: 100%;
+	height: 60px;
+	line-height: 60px; /*how to use it*/
+}
+.copyright {
+	font-size: 16px;
+	color: #FAFAFA;
+	text-align: center;
+}
 
 
 
