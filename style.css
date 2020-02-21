@@ -267,6 +267,67 @@ footer {
 	.mv-text {
 		font-size: 18px;
 	}
+	/*Portfolioレスポンシブ対応*/
+	#portfolio {
+		padding: 0 5%;
+	}
+	.production-group {
+		width: 300px;
+	}
+	.production {
+		float: none;
+	}
+	.sp-none {
+		display: none;
+	}
+	/*Featureレスポンシブ対応*/
+	#feature {
+		padding: 0 5%;
+	}
+	.strength-group {
+		width: 320px;
+	}
+	.strength {
+		float: none;
+		margin-top: 10px;
+	}
+	/*profile用レスポンシブ対応*/
+	#profile {
+		padding: 0 5%;
+	}
+	.profile-group {
+		text-align: center;
+	}
+	.left-content {
+		float: none;
+		width: 100%;
+	}
+	.right-content {
+		float: none;
+		width: 100%;
+	}
+	.discription-title:first-child {
+		padding-top: 20px;
+	}
+	.discription-text {
+		padding-top: 5px;
+	}
+	/*contact用レスポンシブ対応*/
+	#contact {
+		padding: 0 5%;
+	}
+	.contact-group {
+		width: 100%;
+		text-align: center;
+	}
+	.left-contact-content {
+		width: 100%;
+	}
+	.right-contact-content {
+		width: 100%;
+	}
+
+
 }
 
 
